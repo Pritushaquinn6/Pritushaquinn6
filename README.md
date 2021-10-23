@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Pritushaquinn6
+- 👀 I’m interested in Java & python ...
+- 🌱 I’m currently learning java languages...
+- 📫 How to reach me see out my insta Pritushaquinn,my telegram id Pritushaquinn...
+
+<!---
+Pritushaquinn6/Pritushaquinn6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
